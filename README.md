@@ -1,13 +1,12 @@
 # Sonam Yadav
 
-Computer Science Engineering Undergraduate at GL Bajaj Institute of Technology and Management.
+Computer Science Engineering(AIML) Undergraduate at GL Bajaj Institute of Technology and Management.
 
 ## Skills
 - Java
 - Python
 - HTML
 - CSS
-- JavaScript
 - Data Structures & Algorithms
 - Web Development
 
